@@ -1,0 +1,3 @@
+Example of PoE realization, which then was used for Temperature meter sensor
+
+Beispiel einer PoE-Realisierung, die dann für einen Temperaturmesssensor verwendet wurde
